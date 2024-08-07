@@ -37,6 +37,12 @@ To prepare the dataset for analysis, several preprocessing steps were performed:
      ``` 
      IF(Age > 54, "Old", IF(Age >= 31, "Middle Age", IF(Age < 31, "Adolescent", "Invalid")))
      ```
+## Dashboard
+
+Here is a screenshot of the bike sales dashboard:
+
+![Bike Sales Dashboard](.png)
+
 
 
 
