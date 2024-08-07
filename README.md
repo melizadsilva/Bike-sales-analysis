@@ -41,7 +41,8 @@ To prepare the dataset for analysis, several preprocessing steps were performed:
 
 Here is a screenshot of the bike sales dashboard:
 
-![Bike Sales Dashboard](bike sales dashboard.png)
+![Bike Sales Dashboard](bike_sales_dashboard.png)
+
 
 
 
