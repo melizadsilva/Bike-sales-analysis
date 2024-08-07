@@ -43,6 +43,36 @@ Here is a screenshot of the bike sales dashboard:
 
 ![Bike Sales Dashboard](bike_sales_dashboard.png)
 
+## Key Findings and Insights
+
+1. **Income Distribution**:
+   - The majority of bike buyers have an annual income between $55,000 and $60,000.
+   - Higher income levels generally correlate with a higher likelihood of purchasing a bike.
+
+2. **Marital Status**:
+   - Married individuals are more likely to purchase bikes compared to single individuals.
+
+3. **Gender Analysis**:
+   - Males constitute a larger percentage of bike buyers compared to females.
+
+4. **Education and Occupation**:
+   - Customers with higher education levels (Partial High School) are more likely to purchase bikes than the ones who are graduated with a degree.
+
+5. **Home Ownership**:
+   - Homeowners are more likely to buy bikes compared to renters.
+   - The number of cars owned significantly impacts the likelihood of bike purchase.
+
+6. **Commute Distance**:
+   - Customers with shorter commute distances are more likely to purchase bikes, possibly for convenience and health benefits.
+   
+7. **Regional Trends**:
+   - Certain regions have higher bike sales, possibly due to better infrastructure, weather, or cultural factors.
+   - Urban areas show higher bike sales compared to rural areas.
+
+8. **Age Distribution**:
+   - The age group 30-50 has the highest bike purchase rate.
+   - Younger and older age groups show relatively lower bike purchase rates.
+
 
 
 
